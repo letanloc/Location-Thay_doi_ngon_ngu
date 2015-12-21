@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--//large_text-->
+
+    <string name="large_text">
+            "Chất liệu là ẩn dụ. \n \n"
+
+        "Một ẩn dụ về vật chất là lí thuyết thống nhất của một không gian hợp lý và một hệ thống chuyển động."
+        "Vật liệu này được căn cứ vào thực tế xúc giác, lấy cảm hứng từ những nghiên cứu của giấy và mực in, chưa"
+        "công nghệ tiên tiến và mở cửa cho trí tưởng tượng và phép thuật. \ n"
+        "Bề mặt và các cạnh của vật liệu cung cấp tín hiệu thị giác đó là có căn cứ trong thực tế Các."
+        "sử dụng các thuộc tính xúc giác quen thuộc sẽ giúp người dùng nhanh chóng hiểu affordances. Tuy nhiên, các"
+        "linh hoạt của vật liệu tạo ra affordances mới supercede những người trong vật lý"
+        "thế giới, mà không vi phạm các quy tắc của vật lý. \ n"
+        "Các nguyên tắc cơ bản của ánh sáng, bề mặt, và chuyển động là chìa khóa để truyền đạt cách các vật thể di chuyển,"
+        "tương tác, và tồn tại trong không gian và trong mối quan hệ với nhau. show ánh sáng thực tế"
+        "đường nối, chia không gian, và chỉ ra các bộ phận chuyển động. \ n \n"
+
+        "Bold, đồ họa, có chủ ý. \n \n"
+
+        "Các yếu tố cơ bản của bản in dựa trên thiết kế kiểu chữ, lưới, không gian, quy mô, màu sắc"
+        "và sử dụng các hình hướng dẫn phương pháp điều trị trực quan. Những yếu tố làm xa hơn xin vui lòng các"
+        "mắt. Họ tạo ra hệ thống phân cấp, ý nghĩa và tập trung. Cố ý lựa chọn màu sắc, cạnh để cạnh"
+        "hình ảnh, kiểu chữ quy mô lớn, và không gian màu trắng cố ý tạo ra một đậm và đồ họa"
+        "giao diện mà đắm người sử dụng trong kinh nghiệm. \ n"
+        "Một sự nhấn mạnh vào hành động của người sử dụng làm chức năng cốt lõi ngay lập tức rõ ràng và cung cấp"
+        "waypoints cho người sử dụng. \ n \ n"
+
+        "Motion cung cấp ý nghĩa. \ N \ n"
+
+        "Khía cạnh chuyển động và củng cố thêm cho người sử dụng như là động lực chính. Hành động sử dụng chính là"
+        "điểm uốn mà khởi động, chuyển toàn bộ thiết kế. \ n"
+        "Tất cả các hành động diễn ra trong một môi trường duy nhất. Đối tượng được trình bày cho người dùng mà không cần"
+        "phá vỡ tính liên tục của kinh nghiệm ngay cả khi họ chuyển đổi và tổ chức lại. \ n"
+        "Motion là có ý nghĩa và thích hợp, phục vụ để tập trung sự chú ý và duy trì liên tục."
+        "Phản hồi là tinh tế chưa rõ ràng. Transitions là ef fi cient chưa mạch lạc. \ N \ n"
+
+        "Thế giới 3D. \ N \ n"
+
+        "Môi trường vật chất là một không gian 3D, có nghĩa là tất cả các đối tượng có x, y, z"
+        "chiều. Các trục z là vuông góc phù hợp với mặt phẳng của màn hình, với"
+        "dương tính z-trục mở rộng về phía người xem. Mỗi tấm vật liệu chiếm một single"
+        "vị trí dọc theo trục z và có bề dày 1dp tiêu chuẩn. \ n"
+        "Trên web, trục z được sử dụng cho các lớp và không cho quan điểm. Thế giới 3D là"
+        "mô phỏng bằng cách thao tác các trục y. \ n \ n"
+
+        "Ánh sáng và bóng tối. \ N \ n"
+
+        "Trong môi trường vật chất, đèn chiếu sáng ảo cảnh. Đèn Key tạo"
+        "bóng tối hướng, trong khi ánh sáng xung quanh tạo bóng đổ nhẹ từ mọi góc độ. \ n"
+        "Shadows trong môi trường vật liệu được đúc bởi hai nguồn ánh sáng. Trong Android"
+        "phát triển, bóng xảy ra khi nguồn ánh sáng bị chặn bởi các tấm vật liệu tại"
+        "các vị trí khác nhau dọc theo trục z. Trên web, bóng được mô tả bằng thao tác"
+        "trục y chỉ. Ví dụ sau đây cho thấy các thẻ với chiều cao 6dp. \ n \ n"
+
+        "Nghỉ ngơi cao. \n \sn"
+
+        "Tất cả các đối tượng vật chất, bất kể kích thước, có một độ cao an nghỉ, hoặc độ cao mặc định"
+        "điều đó không thay đổi. Nếu một đối tượng thay đổi độ cao, nó sẽ trả về để nghỉ của nó"
+        "cao càng sớm càng tốt. \ n \ n"
+
+        "Cao Component. \n \n"
+
+        "Việc nâng nghỉ ngơi cho một kiểu thành phần là phù hợp trên các ứng dụng (ví dụ, độ cao FAB"
+        "không thay đổi từ 6dp trong một ứng dụng để 16dp trong ứng dụng khác). \ n"
+        "Các thành phần có thể có độ an nghỉ khác nhau trên nền tảng, tùy thuộc vào chiều sâu"
+        "của môi trường (ví dụ: TV có độ sâu lớn hơn điện thoại di động hoặc máy tính để bàn). \ n \ n"
+
+        "Độ cao và độ cao động offsets Responsive. \ N \ n"
+
+        "Một số loại thành phần có độ cao đáp ứng, có nghĩa là họ thay đổi độ cao trong phản ứng"
+        "để người dùng nhập vào (ví dụ, bình thường, tập trung, và ép) hoặc hệ thống các sự kiện. Những cao"
+        "Những thay đổi được thực hiện một cách nhất quán sử dụng offsets cao năng động. \ n"
+        "Offsets cao Dynamic độ cao mục tiêu đó một thành phần di chuyển hướng, tương đối"
+        "trạng thái nghỉ ngơi của các thành phần. Họ đảm bảo rằng thay đổi độ cao phù hợp"
+        "qua hành động và các loại thành phần. Ví dụ, tất cả các thành phần mà nhấc trên báo chí có"
+        "cùng thay đổi cao độ tương đối cao an nghỉ của họ. \ n"
+        "Một khi các sự kiện đầu vào được hoàn thành hoặc bị hủy bỏ, các thành phần sẽ trở lại để nghỉ của nó"
+        "cao. \ n \ n"
+
+        "Tránh nhiễu cao. \ N \ n"
+
+        "Các thành phần có độ cao đáp ứng có thể gặp phải các thành phần khác khi họ di chuyển giữa"
+        "cao độ an nghỉ của họ và hiệu số cao năng động. Bởi vì vật chất không thể vượt qua"
+        "thông qua các vật liệu khác, thành phần tránh can thiệp với nhau nhiều cách,"
+        "cho dù trên một cơ sở cho mỗi thành phần hoặc sử dụng toàn bộ bố trí ứng dụng. \n"
+        "Trên một mức độ thành phần, thành phần có thể di chuyển hoặc được loại bỏ trước khi họ gây nhiễu."
+        "Ví dụ, một nút hành động nổi (FAB) có thể biến mất hoặc di chuyển ra khỏi màn hình trước một"
+        "người dùng chọn lên thẻ, hoặc nó có thể di chuyển nếu một snackbar xuất hiện. \n"
+        "Ở cấp độ bố trí, thiết kế bố trí ứng dụng của bạn để hạn chế tối đa các cơ hội để can thiệp."
+        "Ví dụ, vị trí FAB đến một bên của dòng một thẻ nên FAB sẽ không can thiệp"
+        "khi người dùng cố gắng để chọn lên một trong các thẻ. \n \n"
+Google Dịch dành cho doanh nghiệp:Bộ công cụ DịchTrình biên dịch Trang webGlobal Market Finder
+    </string>
+</resources>
